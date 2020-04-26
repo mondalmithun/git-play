@@ -1,3 +1,8 @@
 import sys
 
-print("Hellow world")
+def greetings():
+    print("Hellow world...!!!!!!!")
+
+
+if __name__ =="__main__":
+    greetings()
